@@ -5,7 +5,7 @@ public class SocialMedia {
         Scanner sc = new Scanner(System.in);
         FriendNetwork network = new FriendNetwork();
 
-        while (true) {
+         while (true) {
             System.out.println("\nSocial Media Friend Management");
             System.out.println("1. Add User");
             System.out.println("2. Add Friend Connection");
